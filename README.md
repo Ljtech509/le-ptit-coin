@@ -18,3 +18,4 @@
 
 ## 3. App mobile (à venir)
 L’API `/api/auth/login` renvoie un token (`Authorization: Bearer ...`) pour l’app Android/iOS.
+"# le-ptit-coin" 
